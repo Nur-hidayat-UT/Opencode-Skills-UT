@@ -12,7 +12,8 @@ yang sudah jadi **tanpa mengubah kata-kata naskah**.
 
 Skrip perapi berasal dari **YZMakalah V2 — YZ PROJECT (@yzproject24)** yang
 kemudian dimodifikasi, dibersihkan, dan didokumentasikan ulang sebagai proyek
-sumber terbuka di repositori ini. Lihat [`CREDITS.md`](../CREDITS.md).
+sumber terbuka di repositori ini. Tautan proyek asal:
+<https://lynk.id/yzproject>. Lihat juga [`CREDITS.md`](../CREDITS.md).
 
 Prinsip utama skrip: **tata letak dibangun ulang, isi naskah tidak disentuh.**
 Satu-satunya perubahan teks adalah daftar `koreksi` yang ditulis eksplisit di

@@ -19,7 +19,7 @@ atau memodifikasi kode ini, mohon pertahankan atribusi ini.
 
 | Karya asal | Penulis | Tautan |
 | --- | --- | --- |
-| YZMakalah V2 | YZ PROJECT | [@yzproject24](https://github.com/yzproject24) |
+| YZMakalah V2 | YZ PROJECT (@yzproject24) | [lynk.id/yzproject](https://lynk.id/yzproject) |
 
 ## Lisensi
 

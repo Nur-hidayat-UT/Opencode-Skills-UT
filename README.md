@@ -95,5 +95,5 @@ pip install lxml
 ## Lisensi
 
 MIT — lihat [`LICENSE`](LICENSE). Kode perapi makalah berasal dari YZ PROJECT
-(@yzproject24) lalu dimodifikasi; atribusi lengkap ada di
-[`CREDITS.md`](CREDITS.md).
+(@yzproject24) di <https://lynk.id/yzproject> lalu dimodifikasi; atribusi
+lengkap ada di [`CREDITS.md`](CREDITS.md).
